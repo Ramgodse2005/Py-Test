@@ -1,1 +1,1 @@
-print "print data")
+print ("print data")
